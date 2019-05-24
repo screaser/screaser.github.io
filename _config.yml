@@ -1,0 +1,12 @@
+# Setup
+name:         screaser's notes
+tagline:      Notes and Learnings as I dive into iOS and Swift
+baseurl:      ""
+locale:       "en"
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
